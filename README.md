@@ -1,4 +1,4 @@
-# NetworkX : Spam Or Not
+# Spam Or Not
 
 This project explore text message data and predict if a message is spam or not.
 
